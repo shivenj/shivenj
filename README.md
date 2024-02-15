@@ -2,7 +2,7 @@
 
 ----
 
-![Shiven's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shivenj&show_icons=true?theme=tokyonight)
+![Shiven's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shivenj&show_icons=true?theme=radical)
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shivenj&layout=compact)](https://github.com/shivenj)
 <!--
