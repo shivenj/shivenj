@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi, this is Shiven J 👋
 
+----
+
+![Shiven's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shivenj&show_icons=true?theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shivenj&layout=compact)](https://github.com/shivenj)
 <!--
 **shivenj/shivenj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
